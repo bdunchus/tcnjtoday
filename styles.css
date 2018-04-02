@@ -1,0 +1,32 @@
+
+img     {width: 25%}
+img     {float: left}
+
+
+.nav1 {text-align: right}
+.nav1  {background-color:#293f6f}
+.nav1   {color:white}
+.nav1   {padding:5%}
+.nav1:hover {color:#4a85b9}
+
+.nav2   {background-color: #FFEF9A}
+.nav2   {padding:2%}
+.nav2   {text-align: center}
+.nav2   {color: #293f6f}
+
+
+h2      {font-family: serif}
+h2      {font-size: 50px}
+h2      {color: #4F4F4F}
+
+h3.search     {text-align:right}
+
+p       {padding: 60%}
+
+.menu   {color: #4a85b9}
+
+footer  {background-color: #293f6f}
+footer  {padding: 10%}
+footer  {font-size: 15px}
+footer  {color:#4a85b9}
+footer  {text-align: center}

@@ -1,11 +1,17 @@
 <html>
 
-<h1>
-    <img src= "Images/tcnj-wordmark-420x130.png" alt="Logo">
-</h1>
+<head>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+    
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+</head>
+    
     
 <nav class="nav1">
-    
+    <img src= "Images/tcnj-wordmark-420x130.png" alt="Logo">
     Apply
     Visit
     Give
@@ -29,12 +35,19 @@
 <body>
     <h2>
         TCNJ Today
+        <h3 class="search">
+         <input type="text" placeholder="Search..">
+        </h3>
     </h2>
-        <p class="menu">
+        <h3 class="menu">
             Menu
-        </p>   
-  
+        </h3> 
     
+   <p>
+
+    </p>
+  
+
 </body>
     
 <footer>
@@ -44,3 +57,14 @@
     Schools
 
 </footer>
+    
+<script>
+$(document).ready(function(){
+    $("h3").click(function(){
+        $(this).hide();
+    });
+});
+</script> 
+
+    
+</html>
