@@ -1,12 +1,9 @@
 
-img     {width: 25%}
-img     {float: left}
-
 
 .nav1 {text-align: right}
 .nav1  {background-color:#293f6f}
 .nav1   {color:white}
-.nav1   {padding:5%}
+.nav1   {padding:2%}
 .nav1:hover {color:#4a85b9}
 
 .nav2   {background-color: #FFEF9A}
