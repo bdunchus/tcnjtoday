@@ -1,20 +1,32 @@
-img     {width: 25%}
-img     {float: left}
+.nav2 img   {width:15%}
+.nav2 img   {align-content: center}
+
+
+.logo     {width: 25%}
+.logo     {float: left}
+.logo     {margin-top: 0px}
+.logo     {margin-left: 0px}
 
 
 .nav1 {text-align: right}
 .nav1  {background-color:#293f6f}
 .nav1   {color:white}
-.nav1   {padding:5%}
+.nav1   {padding:4%}
 .nav1:hover {color:#4a85b9}
+.nav1   {margin-top:0px}
+.nav1   {margin-left: 0px}
+.nav1   {margin-right: 0px}
 
-.nav2   {background-color: #FFEF9A}
+.nav2   {background-color: #F0E3b2}
 .nav2   {padding:2%}
 .nav2   {text-align: center}
 .nav2   {color: #293f6f}
+.nav2   {margin-top:0px}
+.nav2   {margin-left: 0px}
+.nav2   {margin-right: 0px}
 
 
-h2      {font-family: serif}
+h2      {font-family: }
 h2      {font-size: 50px}
 h2      {color: #4F4F4F}
 
@@ -24,9 +36,27 @@ p       {padding: 60%}
 
 .menu   {color: #4a85b9}
 
+ul      {list-style-type: none}
+ul      {color:#4a85b9}
+
+li      {list-style-type: none}
+li      {color:#fff}
+
 footer  {background-color: #293f6f}
-footer  {padding: 10%}
-footer  {font-size: 15px}
+footer  {padding: 20%}
+footer  {font-size: 100%}
 footer  {color:#4a85b9}
 footer  {text-align: center}
+footer  {margin-bottom:0px}
+
+
+.logo2     {width: 25%}
+.logo2     {float: left}
+.logo2     {margin-top: 0px}
+.logo2     {padding-left: 0px}
+
+.column     {float: left}
+.column     {width: 30%}
+
+
 
